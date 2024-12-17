@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Hero, Features, Pricing, Testimonials, Footer, FAQ } from './sections';
+import { Hero, Features, Pricing, Testimonials, Footer, FAQ } from './sections/index';
 import NavBar from './components/NavBar';
 //aiadj
 
